@@ -1,7 +1,9 @@
 omniauth-go-to-webinar
 ======================
 
-Omniauth Strategy for Go To Webinar
+OmniAuth is a library that standardize multi-provider authentication for web applications. A developer can create strategies for OmniAuth that authenticate users via disparate systems. 
+
+This is a Omniauth Strategy for Go To Webinar
 
 
 How To use :
@@ -13,7 +15,7 @@ end
 ```
 
 
-What do you get back ? :
+What do you get back? :
 
 ```
   -- !ruby/hash:OmniAuth::AuthHash
