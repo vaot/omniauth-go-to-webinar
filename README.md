@@ -3,7 +3,7 @@ omniauth-go-to-webinar
 
 OmniAuth is a library that standardize multi-provider authentication for web applications. A developer can create strategies for OmniAuth that authenticate users via disparate systems. 
 
-This is a Omniauth Strategy for Go To Webinar
+This application is an example of creating a Omniauth Strategy
 
 
 How To use :
